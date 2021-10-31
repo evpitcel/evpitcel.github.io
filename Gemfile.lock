@@ -24,7 +24,6 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     execjs (2.7.0)
     faraday (0.15.4)
       multipart-post (>= 1.2, < 3)
@@ -253,8 +252,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-seo-tag
+  jekyll-sitemap
   nokogiri (>= 1.10.4)
   slate
 
 BUNDLED WITH
-   2.2.15
+   2.2.29

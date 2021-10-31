@@ -1,6 +1,12 @@
 theme: jekyll-theme-slate
-title:  Rothrock Chiropractic & Rehabilitation
-description: Dr. Emery Pitcel
+title:  Rothrock Chiropractic & Rehabilitation, Chiropractors serving State College, Pa and Centre County
+tagline: Rothrock Chiropractic & Rehabilitation, State College Area Chiropractors
+description: Rothrock Chiropractic & Rehabiliation is your local chiropractor in Lemont, PA. We are located in Center for Wellbeing at 123 Mount Nittany Rd. We are happy to serve patients from Lemont, State College, Boalsburg, Nittany Valley, and the Centre County region. Call us today at (814) 441-5532 for an appointment.
+logo: /images/Rothrock-logo.png
 markdown: kramdown
 
-# baseurl: /psu-hcr.github.io
+# baseurl: /rothrockchiropractic.com
+
+gems:
+- jekyll-seo-tag
+- jekyll-sitemap

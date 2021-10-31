@@ -5,3 +5,7 @@ gem "slate"
 gem "nokogiri", ">= 1.10.4" # vulnerability?
 
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
+gem 'jekyll-seo-tag'
+
+gem 'jekyll-sitemap'
