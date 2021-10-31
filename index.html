@@ -1,0 +1,143 @@
+---
+layout: default
+title: Home
+---
+<head>
+
+<link rel="canonical" href="https://evpitcel.github.io/">
+
+<meta name="description" content="Rothrock Chiropractic & Rehabilitation">
+<meta name="keywords" content="chiropractic, state college, state college chiropractic, state college chiropractor, centre county chiropractic,centre county chiropractor, centre county rehab, centre county rehabilitation, low back pain, neck pain, mckenzie method">
+  <style>
+  * {box-sizing: border-box;}
+  .mySlides {display: none; }
+  img {vertical-align: middle;}
+  </style>
+</head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="button prev" onclick="plusSlides(-1)" style="margin-top:8em">&#10094;</div>
+<div class="button next" onclick="plusSlides(1)" style="margin-top:8em">&#10095;</div>
+
+
+<div class="mySlides fade"> 
+  <img src="/images/HRIbiomedical.png" style="width:90%; display:flex; justify-content:center;">
+  <div class="text">Physical Human-Robot Interaction.</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/lu-kuka2.jpg" style="width:90%; display:flex; justify-content:center;">
+  <div class="text">Zhiqing Lu demonstrating the Kuka LBR iiwa at the ME Knowledge Lab Ribbon Cutting. September 2021.</div>
+</div>
+
+<div class="mySlides fade"> <!--  -->
+	<img alt="Katie Fitzsimons demonstrating human-robot interaction at the Museum of Science and Industry" title="Robot Demonstration at MSI" src="/images/MSI_katie.jpg" style="width:56%; ; display:flex; justify-content:center;">
+	<div class="text">Katie showing a robot to children at the Museum of Science and Industry. April 2019.</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/lu-kuka3.jpg" style="width:90%; display:flex; justify-content:center;">
+  <div class="text">Zhiqing Lu demonstrating the Kuka LBR iiwa at the ME Knowledge Lab Ribbon Cutting. September 2021.</div>
+</div>
+<!--
+<div class="mySlides fade"> 
+  <img src="/images/MSI_group.jpg" style="width:90%; display:flex; justify-content:center;">
+  <div class="text">National Robotics Week at the Museum of Science and Industry. April 2019.</div>
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/MSI_ola.jpg" style="width:90%; display:flex; justify-content:center;">
+  <div class="text">Ola showing off the Nao robot at the Museum of Science and Industry. April 2019.</div>
+</div>
+
+  <img src="/images/WAFR_group.jpg" style="width:90%; display:flex; justify-content:center;">
+  <div class="text">Members of the lab at the Workshop on Algorithmic Robotics (WAFR) Conference in Merida, Mexico. December 2018.</div>
+</div> 
+-->
+
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span>
+  <span class="dot" onclick="currentSlide(5)"></span>
+  <span class="dot" onclick="currentSlide(6)"></span>
+  <span class="dot" onclick="currentSlide(7)"></span>
+</div>
+
+<!-- For slideshow to scroll through -->
+<script>
+  var slideIndex = 1;
+  var myTimer;
+
+  window.addEventListener("load",function() {
+    showSlides(slideIndex);
+    myTimer = setInterval(function(){plusSlides(1)}, 4000);
+  })
+
+  function currentSlide(n){
+    clearInterval(myTimer);
+    myTimer = setInterval(function(){plusSlides(n+1)}, 4000);
+    showSlides(slideIndex = n);
+  }
+
+  function plusSlides(n) {
+    clearInterval(myTimer);
+    if (n < 0){
+      showSlides(slideIndex -= 1);
+    } else {
+      showSlides(slideIndex += 1);
+    }
+    if (n == -1){
+      myTimer = setInterval(function(){plusSlides(n+2)}, 4000);
+    } else {
+      myTimer = setInterval(function(){plusSlides(n+1)}, 4000);
+    }
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+    }
+    slides[slideIndex-1].style.display = "block";
+    dots[slideIndex-1].className += " active";
+  }
+</script>
+
+
+
+<div class="about-box">
+  <!--<h2>About</h2>-->
+  <p>Our philosophy at Rothrock is ...</p>
+</div>
+
+<br>
+<div class="row">
+  <div class="column4">
+      <div class="news-box">
+        <h2><a href="/news" style="color:black">Blog</a></h2>
+        <p><b>November 9, 2021</b> <a href="/2021/11/09/wereopen.html" style="color:black">We're open!</a></p>
+		
+      </div>
+  </div>
+  <div class="column5">
+    <div class="recentpapers-box">
+      <h2><a href="/publications" style="color:black">Make a Payment</a></h2>
+      <p>To make a payment by phone, please call (814) 441-5532.
+		<br>For online payments, please click <a href="/2021/11/09/wereopen.html" style="color:black">here</a>.</p>
+	</div>
+
+</div>
+
+</body>

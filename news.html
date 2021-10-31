@@ -1,0 +1,21 @@
+---
+layout: default
+title: Blog
+---
+<head>
+
+
+<meta name="description" content="Rothrock Chiropractic & Rehabilitation">
+<meta name="keywords" content="chiropractic, state college, state college chiropractic, state college chiropractor, centre county chiropractic,centre county chiropractor, centre county rehab, centre county rehabilitation, low back pain, neck pain, mckenzie method">
+
+</head>
+
+<!-- <h1>News</h1>-->
+
+<body>
+  {% for post in site.posts %}
+		<p style="font-size:1em; margin-bottom:-.3em;">{{ post.date | date: "%B %-d, %Y" }}</p>
+		<p style="font-size:1.2em;"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+		<hr>
+  {% endfor %}
+</body>
