@@ -8,6 +8,6 @@ markdown: kramdown
 
 # baseurl: /rothrockchiropractic.com
 
-gems:
+plugins:
 - jekyll-seo-tag
 - jekyll-sitemap

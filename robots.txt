@@ -1,5 +1,6 @@
 Sitemap: https://rothrockchiro.com/sitemap.xml
+Sitemap: https://www.rothrockchiro.com/sitemap.xml
 
-User-agent: *
-Disallow: 
+
+
 
