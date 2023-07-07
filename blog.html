@@ -1,0 +1,15 @@
+---
+layout: default
+title: Resources
+---
+
+
+<h1>Resources</h1>
+
+
+  {% for post in site.posts %}
+		<p style="font-size:1em; margin-bottom:-.3em;">{{ post.date | date: "%B %-d, %Y" }}</p>
+		<p style="font-size:1.2em;"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></p>
+		<hr>
+  {% endfor %}
+
