@@ -3,10 +3,6 @@ layout: post
 title: Feeling Inspired to get in shape?
 date: 2023-07-07
 ---
-<!--<div class="container">
-  <img class="hover_box" style="width:50%" src="IMAGE_PATH" alt="ALT_TEXT" >
-  <div class="caption" style="width:50%; bottom:3%"><p>CAPTION_TEXT</p></div>
-</div>-->
 
 The Happy Valley Ironman 70.3 was an exciting event for the Central PA community. Over 2,000 participants from 43 different states and 15 different countries competed in the exciting event, featuring a 1.2 mile swim, 56 mile bike, and 13.1 mile run. It’s truly an athletic feat to complete an event like that!
 
