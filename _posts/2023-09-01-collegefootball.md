@@ -1,6 +1,6 @@
 ---
 layout: post
-title: September 1, 2023 - College Football is Back for 2023 - Binge football without hurting yourself!
+title: College Football is Back for 2023 - Binge football without hurting yourself!
 date: 2023-09-01
 ---
 
