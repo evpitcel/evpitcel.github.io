@@ -4,7 +4,7 @@ title: September 1, 2023 - College Football is Back for 2023 - Binge football wi
 date: 2023-09-01
 ---
 
-The Penn State Nittany Lions are back in action on Saturday night! Some will be lucky enough to attend the game at Beaver Stadium, while most of us will be watching on TV. What an exciting time with the return of college football!
+The Penn State Nittany Lions are back in action on Saturday night against WVU! Some will be lucky enough to attend the game at Beaver Stadium, while most of us will be watching on TV. What an exciting time with the return of college football!
 
 With so many games coming up this weekend, watching college football on the couch all day can be so enjoyable. But, it can also lead to discomfort and pain if you're not mindful of your posture and diminished activity levels. Here are five tips to help you avoid pain while sitting on the couch for extended periods:
 
