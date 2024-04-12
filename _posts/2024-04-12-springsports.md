@@ -4,7 +4,7 @@ title: SPRING SPORTS SAFETY, WELLNESS, AND PEAK PERFORMANCE
 date: 2024-04-12
 ---
 
-Hey Parents!
+Hey Parents!!
 
 We are in the early phases of the spring sports season for high school, junior high, and youth sports! It’s an exciting time of year for the sports programs of State High, Bellefonte, Bald Eagle, Penns Valley, and all the other surrounding school districts in Centre County and Central Pennsylvania. It’s also an important time to remind everyone of some small, yet important tips on keeping your student-athletes healthy this spring. Review these five tips to keep your kids in the game this April, May, and June!
 
