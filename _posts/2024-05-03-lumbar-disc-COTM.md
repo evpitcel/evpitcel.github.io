@@ -4,7 +4,7 @@ title: CONDITION OF THE MONTH: LUMBAR DISC HERNIATION
 date: 2024-05-03
 ---
 
-We are starting a new monthly series called the “Condition of the Month.” Each month, we’ll give a quick bio of an injury we frequently diagnose and treat at Rothrock Chiropractic and Rehabilitation. These conditions range from common to uncommon in the State College and Centre County communities. We wish to educate the public on these injuries, and how we can help as chiropractors.
+We are starting a new monthly series called “Condition of the Month.” Each month, we’ll give a quick bio of an injury we frequently diagnose and treat at Rothrock Chiropractic and Rehabilitation. These conditions range from common to uncommon in the State College and Centre County communities. We wish to educate the public on these injuries, and how we can help as chiropractors.
 
 For May 2024, we are highlighting **lumbar disc herniations.**
 
