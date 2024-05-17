@@ -16,10 +16,10 @@ Primary headaches are caused by overactivity OR problems with pain-sensitive str
 
 **Here are the top 5 primary headaches:**
 
-Migraine
-Migraine with aura
-Tension Headache
-Cluster Headache
-Trigeminal Nerve Referral Pain (Provided by Mayo Clinic Staff)
+1. Migraine
+2. Migraine with aura
+3. Tension Headache
+4. Cluster Headache
+5. Trigeminal Nerve Referral Pain (Provided by Mayo Clinic Staff)
 
 **Reach out to us at Rothrock Chiro and Rehab to learn more about each of these headaches and how we can help!**
