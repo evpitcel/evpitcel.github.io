@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BE SAFE AND HEALTHY WHILE TRAVELING
-date: 2024-05-24
+date: 2024-05-23
 ---
 
 It’s almost time for summer in Happy Valley! And with the arrival of summer comes vacations and trips. We want to provide 5 smart tips to Penn State students and Centre County residents to maintain spinal health during vacation time this year. After all, nothing cramps a trip like bad pain, so read below to keep pain in the rearview mirror!
