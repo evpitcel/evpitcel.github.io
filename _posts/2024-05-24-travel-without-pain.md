@@ -4,7 +4,7 @@ title: BE SAFE AND HEALTHY WHILE TRAVELING
 date: 2024-05-24
 ---
 
-It’s almost time for summer in Happy Valley! And with the arrival of summer comes vacations and trips. We want to provide 5 smart tips to Penn State students and Centre County residents to maintain spinal health during vacation time this year. After all, nothing cramps a trip like pain, so read below to keep pain in the rearview mirror!
+It’s almost time for summer in Happy Valley! And with the arrival of summer comes vacations and trips. We want to provide 5 smart tips to Penn State students and Centre County residents to maintain spinal health during vacation time this year. After all, nothing cramps a trip like bad pain, so read below to keep pain in the rearview mirror!
 
 1. **Pack Light.** It’s a great idea to invest in luggage with wheels and avoid overpacking. This is especially relevant if you plan to fly, as this luggage is much easier to get around airports. If going by car, don’t overpack bags. This will help reduce the strain on your back while carrying or lifting bags. Take a moment to distribute weight evenly between multiple bags, if needed.
 2. **Stay Active Before, During, and After the Trip.** Incorporate light exercises and stretches into your travel routine to keep your muscles and joints flexible. Make sure to take short walks during layovers. Plan for breaks from driving at least every 2 hours to prevent joint deranging. If you don’t know great exercises to manage your pain, then reach out to our practice so we can help!
