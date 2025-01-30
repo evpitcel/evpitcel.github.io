@@ -18,6 +18,6 @@ This month, we are highlighting **tension headache.**
 
 -**How long will it take to heal?** It depends, but most tension headache cases are resolved within 5-10 office visits over 5-10 weeks.
 
-**Think you or someone you know is struggling with this condition? Call (814) 441-5532 to schedule, or schedule online today for help! And check out THE FULL PODCAST on this condition: https://www.youtube.com/watch?v=kLP9Ugm7gZo !**
+**Think you or someone you know is struggling with this condition? Call (814) 441-5532 to schedule, or schedule online today for help! And check out THE FULL PODCAST on this condition: <a>https://www.youtube.com/watch?v=kLP9Ugm7gZo<a>!**
 
 
