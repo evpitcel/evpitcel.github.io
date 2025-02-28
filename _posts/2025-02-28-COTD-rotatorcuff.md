@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CONDITION OF THE MONTH - ROTATOR CUFF SYNDROME
-date: 2025-02-27
+date: 2025-02-28
 ----
 
 We are continuing our monthly series called “Condition of the Month.” Each month, we’ll give a quick bio of an injury we frequently diagnose and treat at Rothrock Chiropractic and Rehabilitation. These conditions range from common to uncommon in the State College and Centre County communities. We wish to educate the public on these injuries, and how we can help as chiropractors.
