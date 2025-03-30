@@ -27,15 +27,17 @@ The knee is a complex joint that relies on the hip, ankle, and even the spine fo
 The good news is that knee pain doesn’t have to sideline you! A combination of chiropractic care, massage therapy, and movement strategies can help restore function and reduce pain.
 
 1. Assessment & Diagnosis: A thorough evaluation is key to identifying the root cause of knee pain. This may include:
--Gait assessment & patellar mobility testing
--Functional movement & orthopedic exams
--Evaluating the lumbar spine’s role in knee pain
+
+a. Gait assessment & patellar mobility testing
+b. Functional movement & orthopedic exams
+c. Evaluating the lumbar spine’s role in knee pain
 
 2. Treatment Strategies for Knee Pain Relief: At Rothrock Chiropractic & Rehabilitation and Happy Valley Bodyworks, we use an integrated approach to address knee pain:
--McKenzie Method Exercises – Specific movements to improve knee mobility and alignment
--Massage Therapy – Techniques targeting the quads, hips, and glutes to release tension
--Chiropractic Adjustments – Restoring function to the knee and supporting joints
--Strength & Stability Exercises – Building resilience to prevent future injuries
+
+a. McKenzie Method Exercises – Specific movements to improve knee mobility and alignment
+b. Massage Therapy – Techniques targeting the quads, hips, and glutes to release tension
+c. Chiropractic Adjustments – Restoring function to the knee and supporting joints
+d. Strength & Stability Exercises – Building resilience to prevent future injuries
 
 **Preventing Knee Pain: Tips for Staying Active & Pain-Free**
 
