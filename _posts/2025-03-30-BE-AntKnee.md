@@ -17,9 +17,13 @@ In the latest episode of The BE School: Be Better, Be Empowered, Dr. Emery Pitce
 The knee is a complex joint that relies on the hip, ankle, and even the spine for proper function. When these areas are out of alignment or weak, the knee takes on excess stress, leading to pain and dysfunction. Some common contributors to anterior knee pain include:
 
 1. Q-Angle & Biomechanics – Women often experience knee pain more frequently due to differences in pelvic structure and knee alignment. 
+
 2. Muscle Tightness & Imbalances – Tight quads, hip flexors, and IT bands can pull on the kneecap, causing pain.
+
 3. Patellofemoral Pain Syndrome (Runner’s Knee) – This occurs when the kneecap doesn’t track properly, leading to irritation.
+
 4. Jumper’s Knee (Patellar Tendinitis) – Common in athletes, this results from repetitive stress on the patellar tendon.
+
 5. Sedentary Lifestyles – Long periods of sitting can weaken key muscles that support the knee, making it more vulnerable to pain.
 
 **How Chiropractic & Massage Therapy Can Help**
@@ -29,21 +33,29 @@ The good news is that knee pain doesn’t have to sideline you! A combination of
 1. Assessment & Diagnosis: A thorough evaluation is key to identifying the root cause of knee pain. This may include:
 
 a. Gait assessment & patellar mobility testing
+
 b. Functional movement & orthopedic exams
+
 c. Evaluating the lumbar spine’s role in knee pain
 
 2. Treatment Strategies for Knee Pain Relief: At Rothrock Chiropractic & Rehabilitation and Happy Valley Bodyworks, we use an integrated approach to address knee pain:
 
 a. McKenzie Method Exercises – Specific movements to improve knee mobility and alignment
+
 b. Massage Therapy – Techniques targeting the quads, hips, and glutes to release tension
+
 c. Chiropractic Adjustments – Restoring function to the knee and supporting joints
+
 d. Strength & Stability Exercises – Building resilience to prevent future injuries
 
 **Preventing Knee Pain: Tips for Staying Active & Pain-Free**
 
 1. Warm-Up Properly – Dynamic stretching before activity prepares your muscles and joints.
+
 2. Strengthen Supporting Muscles – Focus on the glutes, hamstrings, and core for better knee stability.
+
 3. Ease Back Into Activity – Gradually increase intensity to avoid overuse injuries.
+
 4. Seek Professional Care – Don’t ignore knee pain! Early intervention can prevent long-term issues.
 
 **Get Expert Help for Your Knee Pain**
